@@ -6,6 +6,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
+
 /**
  * A simple class to compute basic, descriptive statistics.
  */

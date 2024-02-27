@@ -1,0 +1,95 @@
+commit da90e878188c6de8870581bdb447299821d7e87b
+Author: René Just <rjust@users.noreply.github.com>
+Date:   Tue Oct 31 17:48:49 2017 -0400
+
+    Updated README.md
+
+commit aad2f3efa0c236063772d0d4d6598170817c07b3
+Author: Yuriy Brun <brun@cs.umass.edu>
+Date:   Sat Oct 28 21:24:52 2017 -0400
+
+    Updated the test command
+
+commit 0f983c1d947c1a50162668c25530fa16afa09670
+Author: Yuriy Brun <brun@cs.umass.edu>
+Date:   Sat Oct 28 21:15:18 2017 -0400
+
+    tweaked the program features description
+
+commit 913a5d8b1319ac89eacbc5cf4689e825dd446e58
+Author: Yuriy Brun <brun@cs.umass.edu>
+Date:   Sat Oct 28 21:14:20 2017 -0400
+
+    cleared up running instructions
+
+commit 61ffac5ac635228ee28fab0044f4d5e2bbe15546
+Author: Yuriy Brun <brun@cs.umass.edu>
+Date:   Sat Oct 28 21:13:19 2017 -0400
+
+    clearing up step 5
+
+commit ddc3fac01d2e0c68b2589844cc01fc1a40e0a3c5
+Author: Yuriy Brun <brun@cs.umass.edu>
+Date:   Sat Oct 28 21:13:06 2017 -0400
+
+    clearing up step 4
+
+commit 9712b0486c49febd9509706df7cb49f0253652fc
+Author: Yuriy Brun <brun@cs.umass.edu>
+Date:   Sat Oct 28 21:12:45 2017 -0400
+
+    clearing up step 3
+
+commit c2b31639edb5fcaadca92fccfc2cf90e51ba552f
+Author: Yuriy Brun <brun@cs.umass.edu>
+Date:   Sat Oct 28 21:12:37 2017 -0400
+
+    clearing up step 2
+
+commit c2111cc0d37bfde779a317e533d3a5e68b8ed9e3
+Author: Yuriy Brun <brun@cs.umass.edu>
+Date:   Sat Oct 28 21:12:11 2017 -0400
+
+    added more info about Ant
+
+commit 3e2a0a5bbe3183214936c5b8a0c835c4ce633ee6
+Author: Yuriy Brun <brun@cs.umass.edu>
+Date:   Sat Oct 28 21:10:49 2017 -0400
+
+    improved description
+
+commit a2583e6eab56667cd39e16a0c72c80542cc47a03
+Author: rjust <rjust.dev@gmail.com>
+Date:   Tue Feb 7 16:30:53 2017 -0500
+
+    Updated README file.
+
+commit 4fa7109674a1cea9cdfa43c9973b2d6163b70766
+Author: rjust <rjust.dev@gmail.com>
+Date:   Wed Dec 7 21:38:16 2016 -0500
+
+    Tweaked the README.
+
+commit f60980c1d1025f7b25bae6a91d1ca22c5f33ea14
+Author: DeveloperTommy <its.tommy.nguyen@gmail.com>
+Date:   Thu Sep 29 23:21:15 2016 -0400
+
+    Updated README
+
+commit e0ca8e1a35db5b8f121acad289b4c7d0d35fc26a
+Author: DeveloperTommy <its.tommy.nguyen@gmail.com>
+Date:   Tue Sep 27 01:04:40 2016 -0400
+
+    Updated the README
+
+commit ba319dbc2464893e71bda68cf5a8fc122e65ae38
+Author: rjust <rjust.dev@gmail.com>
+Date:   Sat Sep 10 15:30:37 2016 -0400
+
+    Updated README.
+
+commit 9b1bbb251e81df165fac3f9c6d0ec26b634d4f96
+Author: René Just <rjust@users.noreply.github.com>
+Date:   Sat Sep 10 15:21:30 2016 -0400
+
+    Initial commit
